@@ -1,0 +1,22 @@
+﻿2D Spaceships, lasers, and explosions sprites:
+* https://craftpix.net/freebies/free-pixel-art-enemy-spaceship-2d-sprites/
+
+
+Asteroid Sprites:
+* https://opengameart.org/content/brown-asteroid
+   * Credits: FunwithPixels
+
+
+Explosion Sound effect:
+* https://opengameart.org/content/8-bit-explosions-1
+   * Credit: Jesús Lastra
+
+
+Laser Sound Effect:
+* https://opengameart.org/content/laser-fire
+   * Credit: dklon
+
+
+Game Over song:
+* https://opengameart.org/content/game-over-theme
+   * Credit: Music by Cleyton Kauffman - https://soundcloud.com/cleytonkauffman
